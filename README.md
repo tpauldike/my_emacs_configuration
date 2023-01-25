@@ -6,7 +6,7 @@ This is cool enough for anyone who likes using emacs and have similar preference
 
 ## What Did I Configure it to do?
 This configuration makes emacs to:
-- Not show its normal start up screen *remove `'(inhibit-startup-screen t)` if you don't like the setting*
+- Not show its normal start up screen. *remove `'(inhibit-startup-screen t)` if you don't like the setting*
 - To follow betty coding style
  - Use 8 spaces when you press tab
  - Warn for trailing white spaces
@@ -23,3 +23,6 @@ This configuration makes emacs to:
    - Simply enter `emacs .emacs` to create it
    - Paste these configurations inside it
    - Save and exit; check to see whether it worked
+
+### Do you find anything hard here?
+Then do well to contact me as soon as you can, my contact details are on my [GitHub profile](https://github.com/tpauldike). I'll be glad to answer your questions.
